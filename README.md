@@ -102,4 +102,8 @@ This repository documents the complete development process of the machine, inclu
 
 # Safety Notice
 
+<<<<<<< HEAD
 This machine uses a high-power laser module. Proper laser safety precautions, eye protection, and ventilation systems are required during operation.
+=======
+This machine uses a high-power laser module. Proper laser safety precautions, eye protection, and ventilation systems are required during operation.
+>>>>>>> 5716e40ef2d7908366e01338256e408e27a20a13
