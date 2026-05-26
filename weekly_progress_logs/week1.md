@@ -1,4 +1,4 @@
-# Day 1 - Initial Prototype
+# week 1 - Initial Prototype
 
 ## Work Completed
 - Mechanical frame assembled

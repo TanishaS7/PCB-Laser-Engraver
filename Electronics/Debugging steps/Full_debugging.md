@@ -1,0 +1,4 @@
+- Check SMPS output voltage (should be 12V)
+- Ensure that button is ON in laser driver
+- Check that stepper wires are connected in correct order by checking contuinity
+- Re-check all connections 

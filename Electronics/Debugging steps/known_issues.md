@@ -1,0 +1,3 @@
+- Laser not working by PWM because button not in ON mode on laser driver 
+- Stepper wires connected incorrectly to driver (wrong order)
+- Motor skipping steps due to speed and acceleration being to high
